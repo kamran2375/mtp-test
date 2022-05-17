@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mtprotoproxy": "^2.0.0"
+    "@mtproto-org/mtproxy": "^2.0.31"
   }
 }
